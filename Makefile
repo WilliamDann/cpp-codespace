@@ -1,7 +1,7 @@
 
 # params
 CXX=g++
-CXXFLAGS= -std=c++11
+CXXFLAGS= -std=c++11 -g
 
 # defs
 # app  = every .cpp except test files
